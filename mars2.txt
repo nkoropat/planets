@@ -1,0 +1,2 @@
+Another example file about mars to put in this directory and practice git! 
+
